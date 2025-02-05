@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "BackendApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:15:12.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "BackendApi\\Custom\\Utilidades.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:22:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeToolTip": "BackendApi\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:04:25.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:01:26.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 695,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
