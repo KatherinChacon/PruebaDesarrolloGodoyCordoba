@@ -4,6 +4,6 @@ export interface Usuario{
     apellidos:string,
     cedula:number,
     correo: string,
-    Fecha_Acceso:Date,
+    fechaAcceso:Date,
 }
  

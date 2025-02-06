@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\katherin chacon\\documents\\documentos katherin\\proyectos en general\\pruebatecnicagodoycordoba\\backend\\backendapi\\backendapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\katherin chacon\\documents\\documentos katherin\\proyectos en general\\pruebatecnicagodoycordoba\\backend\\backendapi\\backendapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\katherin chacon\\documents\\documentos katherin\\proyectos en general\\pruebatecnicagodoycordoba\\backend\\backendapi\\backendapi\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\katherin chacon\\documents\\documentos katherin\\proyectos en general\\pruebatecnicagodoycordoba\\backend\\backendapi\\backendapi\\models\\bdgodoycordobacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\bdgodoycordobacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\katherin chacon\\documents\\documentos katherin\\proyectos en general\\pruebatecnicagodoycordoba\\backend\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\kchaconv\\documents\\pruebatecnicadesarrollogodoycordoba\\backend\\backendapi\\backendapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\katherin chacon\\documents\\documentos katherin\\proyectos en general\\pruebatecnicagodoycordoba\\backend\\backendapi\\backendapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|c:\\users\\katherin chacon\\documents\\documentos katherin\\proyectos en general\\pruebatecnicagodoycordoba\\backend\\backendapi\\backendapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8FC767F-7927-4FC1-A07A-71DA693171CB}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,35 +38,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Sesion.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Models\\Sesion.cs",
+              "ToolTip": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Sesion.cs",
+              "RelativeToolTip": "BackendApi\\Models\\Sesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:05:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BdGodoyCordobaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\BdGodoyCordobaContext.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Models\\BdGodoyCordobaContext.cs",
+              "ToolTip": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\BdGodoyCordobaContext.cs",
+              "RelativeToolTip": "BackendApi\\Models\\BdGodoyCordobaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:42:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:30:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "BackendApi\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Models\\Usuario.cs",
               "RelativeToolTip": "BackendApi\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T20:15:12.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Utilidades.cs",
-              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Custom\\Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Custom\\Utilidades.cs",
               "RelativeDocumentMoniker": "BackendApi\\Custom\\Utilidades.cs",
-              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Custom\\Utilidades.cs",
               "RelativeToolTip": "BackendApi\\Custom\\Utilidades.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,38 +107,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Program.cs",
               "RelativeDocumentMoniker": "BackendApi\\Program.cs",
-              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Program.cs",
               "RelativeToolTip": "BackendApi\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwEEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T17:04:25.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BackendApi\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\kchaconv\\Documents\\PruebaTecnicaDesarrolloGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Katherin Chacon\\Documents\\Documentos Katherin\\Proyectos en general\\PruebaTecnicaGodoyCordoba\\Backend\\BackendApi\\BackendApi\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "BackendApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvyEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:01:26.467Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 695,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-02-05T17:01:26.467Z"
             }
           ]
         }

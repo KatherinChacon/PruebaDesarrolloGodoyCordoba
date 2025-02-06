@@ -13,3 +13,15 @@
 .input-custom{
     width: 100%;
 }
+
+
+/*Estilo button acciones*/
+.buttonI{
+    background: green !important;
+    color: white !important;
+}
+
+.buttonR{
+    background: red !important;
+    color: white !important;
+}

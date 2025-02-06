@@ -9,11 +9,12 @@ import { UsuarioService } from '../../services/usuario.service';
 import { Router } from '@angular/router';
 import { Usuario } from '../../interfaces/Usuario';
 import {MatIconModule} from '@angular/material/icon';
+import {MatDatepickerModule} from '@angular/material/datepicker';
 
 @Component({
   selector: 'app-usuario',
   standalone: true,
-  imports: [MatFormFieldModule,MatInputModule,MatButtonModule,ReactiveFormsModule,MatCardModule, MatIconModule],
+  imports: [MatFormFieldModule,MatInputModule,MatButtonModule,ReactiveFormsModule,MatCardModule, MatIconModule,MatDatepickerModule],
   templateUrl: './usuario.component.html',
   styleUrl: './usuario.component.css'
 })
@@ -27,7 +28,7 @@ export class UsuarioComponent {
     apellidos: [''],
     cedula: [0],
     correo: [''],
-    Fecha_Acceso:[''],
+    fecha:[''],
   })
 
   constructor(private router:Router){}
@@ -42,7 +43,7 @@ export class UsuarioComponent {
             apellidos: data.apellidos,
             cedula: data.cedula,
             correo: data.correo,
-            Fecha_Acceso: data.Fecha_Acceso,
+            fecha: data.fechaAcceso,
           })
         },
         error:(err)=>{
@@ -60,19 +61,21 @@ export class UsuarioComponent {
       apellidos: this.formUsuarioE.value.apellidos,
       cedula: this.formUsuarioE.value.cedula,
       correo: this.formUsuarioE.value.correo,
-      Fecha_Acceso: this.formUsuarioE.value.Fecha_Acceso,
+      fechaAcceso: new Date(this.formUsuarioE.value.fecha),
     }
     //Validación si es edición o creación
     if(this.IdUsuario == 0){
-      this.UsuarioServicio.crear(objeto).subscribe({
+      console.log('aqui',this.IdUsuario)
+      this.UsuarioServicio.crear(objeto).subscribe({         
         next:(data)=>{         
           if(Object.keys(data).length > 0){
-            this.router.navigate(["/"])
+            this.router.navigate(["inicio"])
           }else{
             alert("Error al crear")
           }
         },
         error:(err)=>{
+          console.log('aqui',this.IdUsuario, objeto)
           console.log(err.message)
         }
       })

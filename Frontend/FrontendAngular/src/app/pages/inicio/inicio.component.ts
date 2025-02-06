@@ -23,7 +23,7 @@ export class InicioComponent {
 
   private UsuarioService = inject(UsuarioService);
   public listaUsuario:Usuario[] = []; 
-  public displayedColumns:string[] = ['Nombre','Apellidos','Cedula','Correo','Fecha_Acceso','Accion']
+  public displayedColumns:string[] = ['Nombre','Apellidos','Cedula','Correo','Fecha Acceso','Accion']
  
 
   obtener(){

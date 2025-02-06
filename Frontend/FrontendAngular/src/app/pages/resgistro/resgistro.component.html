@@ -3,7 +3,7 @@
         <mat-card-header>
           <mat-card-title> Registrarse</mat-card-title>
         </mat-card-header>
-      </mat-card>
+      
 
       <mat-card-content>
         <form class="form-custom" [formGroup]="formRegistro">            
@@ -17,9 +17,10 @@
                 <input matInput formControlName="contrasena" type="password">
             </mat-form-field>    
             <div class="flex">
-                <button mat-flat-button color="primary" (click)="registrase()">Registrarse</button>
-                <button mat-flat-button color="warn" (click)="volver()" style="margin-left: 8px;">Volver</button>
+                <button mat-flat-button class="buttonI" (click)="registrase()">Registrarse</button>
+                <button mat-flat-button class="buttonR" (click)="volver()" style="margin-left: 8px;">Volver</button>
             </div>          
         </form>
-      </mat-card-content>      
+      </mat-card-content>  
+    </mat-card>    
 </div>

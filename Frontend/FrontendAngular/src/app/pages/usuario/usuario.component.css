@@ -1,0 +1,15 @@
+.inputA{
+    width: 100% !important;
+}
+
+
+/*Estilo button acciones*/
+.buttonI{
+    background: green !important;
+    color: white !important;
+}
+
+.buttonR{
+    background: red !important;
+    color: white !important;
+}

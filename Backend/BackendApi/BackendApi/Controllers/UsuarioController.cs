@@ -21,7 +21,7 @@ namespace BackendApi.Controllers
             _dbGodoyCordobaContext = dbGodoyCordobaContext;
         }
 
-        // Crear un nuevo producto
+        // Crear un nuevo usuario
         [HttpPost]
         public async Task<ActionResult<Usuario>> PostProducto(Usuario usuario)
         {
@@ -31,14 +31,14 @@ namespace BackendApi.Controllers
             return CreatedAtAction("GetUsuario", new { id = usuario.IdUsuario}, usuario);
         }
 
-        // Obtener la lista de todos los productos
+        // Obtener la lista de todos los usuarios
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Usuario>>> GetUsuario()
         {
             return await _dbGodoyCordobaContext.Usuarios.ToListAsync();
         }
 
-        // Obtener un producto por su ID
+        // Obtener un usuario por su ID
         [HttpGet("{id}")]
         public async Task<ActionResult<Usuario>> GetUsuario(int id)
         {
@@ -52,7 +52,7 @@ namespace BackendApi.Controllers
             return usuario;
         }
 
-        // Actualizar los detalles de un producto
+        // Actualizar los detalles de un usuario
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUsuario(int id, Usuario usuario)
         {
@@ -84,7 +84,7 @@ namespace BackendApi.Controllers
             return NoContent();
         }
 
-        // Eliminar un producto
+        // Eliminar un usuario
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteUsuario(int id)
         {

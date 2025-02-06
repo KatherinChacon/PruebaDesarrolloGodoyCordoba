@@ -47,14 +47,24 @@ namespace BackendApi.Controllers
         [Route("Login")]
         public async Task<IActionResult> Login(LoginDTO objeto)
         {
+            var usuarioLogueo = await _dbGodoyCordobaContext.Usuarios
+                .Where(u => u.Correo == objeto.Correo)
+                .FirstOrDefaultAsync();
+
             // Buscar usuario
             var usuarioEncontrado = await _dbGodoyCordobaContext.Sesions
-                .Where(u => 
+                .Where(u =>
                 u.Correo == objeto.Correo &&
                 u.Contrasena == _utilidades.encriptarSHA256(objeto.Contrasena)
-                ).FirstOrDefaultAsync();
+                ).FirstOrDefaultAsync();            
 
-            if(usuarioEncontrado == null)
+            if(usuarioLogueo != null)
+            {
+                usuarioLogueo.FechaAcceso = DateTime.UtcNow;
+                await _dbGodoyCordobaContext.SaveChangesAsync();
+            }
+
+            if (usuarioEncontrado == null)
                 return StatusCode(StatusCodes.Status200OK, new {isSuccess = false, token = ""});
             else
                 return StatusCode(StatusCodes.Status200OK, new { isSuccess = true, token = _utilidades.generarJWT(usuarioEncontrado)});
